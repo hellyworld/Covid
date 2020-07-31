@@ -1,2 +1,2 @@
-# Covid
+# Excercises
 Covid new cases and death rates estimated per country 
